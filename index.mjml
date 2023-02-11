@@ -1,0 +1,150 @@
+<mjml>
+<mj-head>
+    <mj-style>
+        *{
+            font-family: Helvetica, Arial, sans-serif !important;
+            box-sizing: border-box;
+        }
+        @media only screen and (max-width: 418px) {
+        .footer-text {
+          padding: 0px 15px !important;
+        }
+        }
+    </mj-style>
+     <mj-style inline="inline">
+        .footer-links{
+            color: #000000;
+        }
+    </mj-style>
+</mj-head>
+    <mj-body width="620px" background-color="#ffffff">
+    <mj-section padding="0">
+        <mj-column>
+            <mj-text padding="0" font-size="12px">
+               Welcome to ChicMe! 
+            </mj-text>
+            <mj-image padding="60px 0px 55px" src="	https://i.ibb.co/M1PtrvB/chicme-logo.png
+" align="center" width="179px" alt="ChicMe" />
+            <mj-text padding="0" font-size="20px" align="right">
+                Unsubscribe   
+            </mj-text>
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#000000">
+    <mj-group>
+        <mj-column>
+            <mj-image padding="0" src="	https://i.ibb.co/bdFjz4n/whatsnew.jpg
+" width="134.74px" height="34.71px" alt="What's New?" />
+        </mj-column>
+        <mj-column>
+            <mj-image padding="0" src="https://i.ibb.co/3ST1v8b/fw2022.jpg" width="98.36px" height="34.71px" alt="FW2022" />
+        </mj-column>
+        <mj-column>
+            <mj-image padding="0" src="	https://i.ibb.co/YdxXgh5/holiday.jpg
+" width="160.36px" height="34.71px" alt="Holiday Sale" />
+        </mj-column>
+        <mj-column>
+            <mj-image padding="0" src="	https://i.ibb.co/TrM9n4Z/seller.jpg" width="117.38px" height="34.71px"  alt="Best Sellers" />
+        </mj-column>
+        <mj-column>
+            <mj-image padding="0" src="https://i.ibb.co/jrFStkF/lingerie.jpg" width="109.16px" height="34.71px" alt="Lingerie" />
+        </mj-column>
+        </mj-group padding="0">
+    </mj-section>
+     <mj-section padding="0">
+     <mj-group>
+        <mj-column>
+            <mj-image padding="0" src="	https://i.ibb.co/JtbdnSy/free-shipping.jpg" height="79px" alt="free shipping over $69" />
+        </mj-column>
+        <mj-column>
+            <mj-image padding="0" src="https://s9.gifyu.com/images/big-sale.gif
+" height="79px" alt="50-70% off" />
+        </mj-column>
+        </mj-group>
+     </mj-section>   
+     <mj-hero background-width="620px" background-height="386.05px">
+        <mj-image padding="0" src="	https://i.ibb.co/JpXdmC0/welcome.jpg" alt="Welcome to ChicMe" />
+     </mj-hero>
+     </mj-section>
+     <mj-section padding="0">
+        <mj-column>
+            <mj-image padding="0" src="	https://i.ibb.co/ChFKdBT/35off.jpg" alt="35% off" />
+        </mj-column>
+     </mj-section>
+     <mj-section padding="0">
+        <mj-column>
+            <mj-image padding="0" src="https://i.ibb.co/pyMdSbY/qr-top.jpg" alt="" />
+            <mj-image padding="0" src="	https://i.ibb.co/gg94Zwx/qr-bottom.jpg
+" alt="" />
+        </mj-column>
+     </mj-section>
+     <mj-section padding="0">
+        <mj-group>
+        <mj-column>
+            <mj-image padding="0" src="	https://i.ibb.co/sQVzYFG/dresses.jpg
+" width="212.45px" height="260.39px" alt="Dresses" />
+        </mj-column>
+        <mj-column>
+            <mj-image padding="0" src="	https://s3.gifyu.com/images/two-piece.gif
+" width="194.26px" height="260.39px" alt="Two-Piece-Set" />
+        </mj-column>
+        <mj-column>
+            <mj-image padding="0" src="	https://i.ibb.co/3TFXXBZ/tops.jpg" width="212.45px" height="260.39px" alt="Tops" />
+        </mj-column>
+        </mj-group>
+     </mj-section>
+     <mj-section padding="0">
+        <mj-group css-class="bottom-row">
+        <mj-column>
+            <mj-image padding="0" src="	https://i.ibb.co/1QXfhK2/pants.jpg" width="212.45px" height="260.39px" alt="Pants" />
+        </mj-column>
+        <mj-column>
+            <mj-image padding="0" src="	https://i.ibb.co/HqzrvxT/shapewear.jpg" width="194.26px" height="260.39px" alt="Shapewear" />
+        </mj-column>
+        <mj-column>
+            <mj-image padding="0" src="	https://i.ibb.co/98sJfjG/party.jpg" width="212.45px" height="260.39px" alt="Party" />
+        </mj-column>
+        </mj-group>
+     </mj-section>
+     <mj-section padding="0">
+        <mj-column>
+            <mj-image padding="0" src="	https://i.ibb.co/yhd72RN/vip.jpg" width="316.61px" height="79.35px" alt="ChicMe VIP" />
+        </mj-column>
+        <mj-column>
+            <mj-image padding="0" src="	https://i.ibb.co/HTyFXZH/return.jpg" width="316.61px" height="79.35px"  alt="Return Policy" />
+        </mj-column>
+     </mj-section>
+     <mj-section padding="0">
+        <mj-column>
+            <mj-image padding="0" src="	https://i.ibb.co/3RVsxCk/insta.jpg
+" width="207.73px" height="231.93px"  alt="Instagram" />
+        </mj-column>
+         <mj-column>
+            <mj-image padding="0" src="https://i.ibb.co/N7h4nkh/tiktok.jpg" width="212.76px" height="231.93px" alt="TikTok" />
+        </mj-column>
+         <mj-column>
+            <mj-image padding="0" src="	https://i.ibb.co/9grCh53/fb.jpg
+" width="204.71px" height="231.93px" alt="Facebook" />
+        </mj-column>
+     </mj-section>
+     <mj-section padding="0">
+        <mj-column>
+            <mj-text padding="0 15px" align="center" font-size="13px" line-height="25px" color="#666666">
+                You received this message because you've registered or accepted our
+                invitation to receive emails from ChicMe, or you've made a purchase from ChicMe.com.
+            </mj-text>
+            <mj-text css-class="footer-text" padding="0 150px" align="center" font-size="13px" line-height="25px" color="#666666">
+                If you would like to end your email subscription, please
+                <a href="#" class="footer-links">CLICK HERE TO UNSUBSCRIBE</a>.
+            </mj-text>
+            <mj-text css-class="footer-text" padding="0 125px" align="center" font-size="13px" line-height="25px" color="#666666">
+                Please contact our <a href="#" class="footer-links" alt="customer service">customer service</a> if you have any questions.
+                13500 Marlay Ave,Fontana,CA,92337,USA.
+            </mj-text>
+            <mj-text padding="0px 0px 20px 0px" align="center" font-size="13px" line-height="25px" color="#666666">
+                <a href="#" class="footer-links" alt="Privacy Policy">Privacy Policy</a> | <a href="#" class="footer-links" alt="Terms & Conditions">Terms & Conditions</a>
+            </mj-text>
+        </mj-column>
+     </mj-section>
+    </mj-body>
+</mjml>
