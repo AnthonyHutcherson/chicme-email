@@ -79,7 +79,6 @@
         </mj-column>
      </mj-section>
      <mj-section padding="0">
-        <mj-group>
         <mj-column>
             <mj-image padding="0" src="	https://i.ibb.co/sQVzYFG/dresses.jpg
 " width="212.45px" height="260.39px" alt="Dresses" />
@@ -91,10 +90,8 @@
         <mj-column>
             <mj-image padding="0" src="	https://i.ibb.co/3TFXXBZ/tops.jpg" width="212.45px" height="260.39px" alt="Tops" />
         </mj-column>
-        </mj-group>
      </mj-section>
      <mj-section padding="0">
-        <mj-group css-class="bottom-row">
         <mj-column>
             <mj-image padding="0" src="	https://i.ibb.co/1QXfhK2/pants.jpg" width="212.45px" height="260.39px" alt="Pants" />
         </mj-column>
@@ -104,7 +101,6 @@
         <mj-column>
             <mj-image padding="0" src="	https://i.ibb.co/98sJfjG/party.jpg" width="212.45px" height="260.39px" alt="Party" />
         </mj-column>
-        </mj-group>
      </mj-section>
      <mj-section padding="0">
         <mj-column>
