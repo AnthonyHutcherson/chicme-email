@@ -7,4 +7,4 @@ I wanted to add a fashion email template to my portfolio so I decided to do CHIC
 Please download the **MJML** extension on VSCODE.
 
 [Link to project](https://chicme-email.netlify.app/)
-![CHICME email](	[https://i.ibb.co/mCPJPqf/chicme.png](https://i.ibb.co/FWgzyBd/screencapture-chicme-email-netlify-app-2024-06-03-20-40-06.png)
+![CHICME email]([https://i.ibb.co/mCPJPqf/chicme.png](https://i.ibb.co/FWgzyBd/screencapture-chicme-email-netlify-app-2024-06-03-20-40-06.png)
